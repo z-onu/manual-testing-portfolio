@@ -14,7 +14,7 @@ This repository demonstrates my Manual Testing skills through real-world testing
 ## Testing Artifacts
 
 ### Test Cases
-30+ test cases covering positive and negative scenarios.
+25+ test cases covering positive and negative scenarios.
 
 ### Bug Reports
 Documented defects with severity and priority.
